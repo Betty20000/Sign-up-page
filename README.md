@@ -3,6 +3,9 @@ This is a well designed sign-up page made with html and css fully!You will be am
 ### Requirements
  * VS Code
  * GIT
+### Design
+This is the project design made with figma
+
  
  
 
